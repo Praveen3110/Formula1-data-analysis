@@ -73,9 +73,6 @@ pip install pandas matplotlib seaborn openpyxl
 jupyter notebook F1_DataAnalysis.ipynb
 ```
 
-## ✅ Sample Output
-
-![Sample Plot](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Simple_bar_chart.svg/800px-Simple_bar_chart.svg.png)
 
 ## 📌 Future Work
 
